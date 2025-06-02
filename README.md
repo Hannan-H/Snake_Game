@@ -1,3 +1,5 @@
 This is a simple coding project used to refresh my python skills.
-![image](https://github.com/user-attachments/assets/4453fc8e-29b4-49cc-a524-334912b02294)
+![Snake Image](https://github.com/user-attachments/assets/d4c0c6c5-b05c-49fd-8214-fd58741e4867)
+
+
 
