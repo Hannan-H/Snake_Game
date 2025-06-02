@@ -19,6 +19,10 @@ A simple Snake game made with Python.
 ## Overview
 
 This project is a classic Snake game implemented in Python. It was built to refresh my Python skills and demonstrate basic game development concepts.
+![Demo Animation]
+
+https://github.com/user-attachments/assets/809e7b8d-3b61-47b7-9f8c-6f538ccd3a54
+
 
 ## Features
 
