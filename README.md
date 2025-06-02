@@ -1,2 +1,3 @@
 This is a simple coding project used to refresh my python skills.
-![image](https://github.com/user-attachments/assets/4311cfd5-b5b9-45ec-92fb-dba46a59a408)
+![image](https://github.com/user-attachments/assets/4453fc8e-29b4-49cc-a524-334912b02294)
+
