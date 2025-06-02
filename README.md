@@ -1,4 +1,4 @@
-A good README file helps users understand what your project is about, how to use it, and how they can contribute. Here’s a simple structure you can follow for your Snake Game project:
+Snake Game project:
 
 ---
 
@@ -65,10 +65,6 @@ This project is licensed under the MIT License.
 
 ---
 
-**Tips:**
-- Adjust the installation/usage sections to match your actual setup.
-- Add more details in Features and Overview if your game has unique elements.
-- If you have demo GIFs or more screenshots, include them in the Screenshots section.
-- If you used a notebook, mention how to run the notebook.
 
-Would you like a README template you can copy-paste and edit for your repo?
+
+
